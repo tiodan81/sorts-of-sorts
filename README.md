@@ -1,6 +1,6 @@
-# Let's write some sorting functions!
+# JavaScript Sorting Algorithms
 
-Written in JavaScript.
+Wherein we implement some standard sorts in JavaScript.
 
 - bubble
 - insertion
